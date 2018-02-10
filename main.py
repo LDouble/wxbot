@@ -1,7 +1,7 @@
 from wxpy import *
 from wxpy import get_wechat_logger
 
-bot = Bot(cache_path = True，console_qr = True,qr_path="/home/ubuntu/wechatRobot/QR.png")
+bot = Bot(cache_path = True,console_qr = True,qr_path="/home/ubuntu/wechatRobot/QR.png")
 welcome = '''哈哈，我是虾米的机器人，小小虾米emmmmmmm
 我有以下功能，回复序号即可查询
 0.联系主人
